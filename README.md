@@ -8,4 +8,3 @@ disabled = 0
 disabled = 0
 index = sysmon
 sourcetype = XmlWinEventLog:Microsoft-Windows-Sysmon/Operational
-``
